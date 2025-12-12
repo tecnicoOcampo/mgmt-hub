@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "titulo": "test3",
+    "requerimientos_minimos": "fecha correcta",
+    "contexto": "modulo externo",
+    "referencias": "pendulum,test",
+    "tags": [
+      "pendulum",
+      "test"
+    ],
+    "prioridad": "alta",
+    "estado": "completado",
+    "fecha": "2025-12-12"
+  }
+]
